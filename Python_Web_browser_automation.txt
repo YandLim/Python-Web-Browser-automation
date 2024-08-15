@@ -1,0 +1,7 @@
+The Original Code Folder is Python_Browser_Automation Code without any design just the main code
+
+If you want to use this automation correctly you need to change some code line according to your use
+1.In line six you can change the URLS dict key and link to your need
+2.To open app automaticly you should use comma and space for open more than one app (ex:spotify, notepad, sticky notes)
+
+To turn the code to exe file use pyinstaller and open cmd in this file location then type "pyinstaller --onefile --windowed -- icon=icon.ico main.py"
